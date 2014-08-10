@@ -3,3 +3,8 @@ C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\NomeAnimado\Site\bin\Site
 C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\NomeAnimado\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
 C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\NomeAnimado\Site\obj\Debug\Site.dll
 C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\NomeAnimado\Site\obj\Debug\Site.pdb
+C:\Users\Glaucia\Desktop\NomeAnimado\Site\bin\Site.dll
+C:\Users\Glaucia\Desktop\NomeAnimado\Site\bin\Site.pdb
+C:\Users\Glaucia\Desktop\NomeAnimado\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\Glaucia\Desktop\NomeAnimado\Site\obj\Debug\Site.dll
+C:\Users\Glaucia\Desktop\NomeAnimado\Site\obj\Debug\Site.pdb
